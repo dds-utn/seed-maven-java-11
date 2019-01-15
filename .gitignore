@@ -1,0 +1,20 @@
+# Common Files
+
+target/
+
+
+# IntelliJ Files
+
+.idea/
+
+*.iml
+*.ipr
+*.iws
+
+
+# Eclipse Files
+
+.settings/
+
+.classpath
+.project
